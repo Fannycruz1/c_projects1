@@ -1,1 +1,1 @@
-# c_projects1
+Developed a C-based billing system that generates, saves, and retrieves customer invoices with itemized details, discounts, and taxes. Implemented file handling to store and search invoices, enabling easy management of customer records. Automated the generation of invoice headers, bodies, and footers, enhancing accuracy and efficiency. Demonstrated structured data management and basic file operations in C.!
